@@ -15,7 +15,7 @@
 ## Domain Adaptation
 In directory `Exp_Aggregation`.
 Train domain adaptation methods with `run_da.py`, example runs in `example_runs.sh`.
-Train density ratio estimation methods with `rund_dre.py`.
+Train density ratio estimation methods with `run_dre.py`.
 Evaluate with `get_results.py`.
 
 ## Density Ratio Estimation
